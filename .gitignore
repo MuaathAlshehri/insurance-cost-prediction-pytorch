@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Weights
+*.pth
+*.pt
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
